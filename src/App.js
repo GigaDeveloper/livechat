@@ -6,6 +6,7 @@ class App extends Component {
     return (
       <div className="App">
         <h1>Check github trigger!..</h1>
+        <p>Add new staff.</p> 
       </div>
     );
   }
